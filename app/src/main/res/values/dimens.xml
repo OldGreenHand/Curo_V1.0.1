@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="job_activity_title">48sp</dimen>
+    <dimen name="job_activity_center_subtitle">32sp</dimen>
+    <dimen name="job_activity_subtitle">25sp</dimen>
+    <dimen name="arrow_size">32dp</dimen>
+    <dimen name="standard_padding_small">4dp</dimen>
+    <dimen name="standard_padding">8dp</dimen>
+    <dimen name="standard_padding_large">16dp</dimen>
+</resources>

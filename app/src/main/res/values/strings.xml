@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Curo</string>
+
+    <string name="app_login_email">Email</string>
+    <string name="app_login_password">Password</string>
+    <string name="app_login_remember_me">Remember Me</string>
+    <string name="app_login_login">Login</string>
+    <string name="app_login_register">Register Here</string>
+
+    <string name="app_register_firstname">First Name</string>
+    <string name="app_register_lastname">Last Name</string>
+    <string name="app_register_email_address">Email Address</string>
+    <string name="app_register_password">Password</string>
+    <string name="app_register_phone">Phone No.</string>
+    <string name="app_register_company">Company</string>
+    <string name="app_register_agentNo">Agent No.</string>
+    <string name="app_register_register">REGISTER</string>
+
+    <string name="job_edit_JobID">Job ID: </string>
+    <string name="job_edit_jobType">Job Type: </string>
+    <string name="job_edit_location">Location: </string>
+    <string name="job_edit_jobDetails">Details: </string>
+    <string name="job_edit_jobPriority">Priority: </string>
+    <string name="job_edit_jobDescription">Description: </string>
+    <string name="job_edit_dueTime">Due Time: </string>
+    <string name="job_edit_quantity">Quantity: </string>
+    <string name="job_edit_notes">Notes: </string>
+    <string name="edit_job_bid_button">Bid Now</string>
+    <string name="edit_job_bidAmount">Enter bid amount!</string>
+
+    <!-->
+        Items for spinnerAgentNo in res/layout/activity_register.xml
+    <-->
+    <string name="agentNo_prompt">Choose an agent</string>
+
+    <string-array name="agentNo_array">
+        <item>Rainer &amp; Horne</item>
+        <item>LJ Hooker</item>
+        <item>Ray White</item>
+    </string-array>
+
+</resources>

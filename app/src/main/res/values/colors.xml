@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimary">#3c7e10</color>
+    <color name="colorPrimaryDark">#86c218</color>
+    <color name="colorAccent">#4CAF50</color>
+    <color name="lightGray">#e0e0e0</color>
+    <color name="quotes">#86c218</color>
+    <color name="more">#8ab16f</color>
+    <color name="jobID_blue">#6969FF</color>
+    <color name="cardview_initial_background">#beea6e</color>
+    <color name="job_edit_text_black">@android:color/black</color>
+    <color name="job_edit_text_color">@android:color/black</color>
+    <color name="job_edit_background">#EEEEEE</color>
+    <color name="jobIofoKeyword">#3c7e10</color>
+    <color name="userInfo">#3c7e10</color> <!--> this color is used for variables in userinfo_layout.xml <-->
+</resources>
